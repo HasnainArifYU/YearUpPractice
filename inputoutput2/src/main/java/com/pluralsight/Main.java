@@ -16,6 +16,6 @@ public class Main {
         float rate = scanner.nextFloat()*hours;
 
         System.out.println(name+"'s gross pay rate is $" +rate);
-        
+
         }
     }
